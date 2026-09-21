@@ -5,7 +5,11 @@
 Bloomly is an intentional, compassionate, local-first daily routine and personal wellness companion. Built with a gentle aesthetic and a non-punitive mindset, Bloomly helps you cultivate daily rhythms, track hydration, meals, movement, sleep, habits, and self-care without pressure, guilt, or digital burnout.
 
 ---
+### 🌐 Live Demo
 
+👉 [Try Bloomly Live](https://bloomly-wellness.vercel.app)
+
+No account required — your wellness data stays locally in your browser.
 ## 📸 Screenshots
 
 <!-- Replace these placeholder URLs with actual screenshots or repository assets -->
