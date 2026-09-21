@@ -1,0 +1,6 @@
+{
+  "name": "Bloomly 🌷 — Your Daily Wellness Companion",
+  "description": "A cute, modern personal routine and wellness manager tracking routines, habits, hydration, meals, movement, sleep, and daily blooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
