@@ -319,13 +319,6 @@ This outputs compiled, optimized static production assets into the `dist/` folde
 - [ ] **Ambient Soundscapes**: Gentle client-side ambient sounds (soft rain, garden breeze) during mindful breathing sessions.
 - [ ] **Custom Themes**: Seasonal botanical color palettes (Spring Blossom, Autumn Amber, Summer Sun, Winter Frost).
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) — feel free to use, adapt, and build upon it for personal and educational purposes.
-
----
 
 <p align="center">
   Crafted with care 🌷 <i>Remember: consistency isn't about perfection; it's about returning with kindness.</i>
